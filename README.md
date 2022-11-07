@@ -37,11 +37,11 @@
 
 <p align="center">
           <a href="https://github.com/whiteWolfx99/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteWolfx99&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"               alt="whiteWolfx99 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteWolfx99&langs_count=6&theme=dark-purple&layout=compact&hide_border=true"               alt="whiteWolfx99 :: Top Langs" /></a>
           </p>
           <p align="center">
           <a href="https://github.com/whiteWolfx99">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=whiteWolfx99&show_icons=true&theme=midnight-purple&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=whiteWolfx99&theme=midnight-purple&hide_border=true" />
+          <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whiteWolfx99&show_icons=true&theme=dark-purple&hide_border=true" />
+          <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=whiteWolfx99&theme=dark-purple&hide_border=true" />
           </a>
 </p>

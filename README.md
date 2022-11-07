@@ -29,4 +29,5 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="22px">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="22px">
 
-<img align="center"> ![giphy (1)](https://user-images.githubusercontent.com/94759531/200421012-d3e245f6-7f7c-4b48-a998-55f9ba67ba62.gif)
+![giphy (1)](https://user-images.githubusercontent.com/94759531/200421012-d3e245f6-7f7c-4b48-a998-55f9ba67ba62.gif)
+![giphy (2)](https://user-images.githubusercontent.com/94759531/200421540-7da6ecfc-6175-4f38-bf0f-06d6c8deaaca.gif)

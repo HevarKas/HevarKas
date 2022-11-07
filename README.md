@@ -31,3 +31,17 @@
 
 ![giphy (1)](https://user-images.githubusercontent.com/94759531/200421012-d3e245f6-7f7c-4b48-a998-55f9ba67ba62.gif)
 ![giphy (2)](https://user-images.githubusercontent.com/94759531/200421540-7da6ecfc-6175-4f38-bf0f-06d6c8deaaca.gif)
+
+## Coding & Activity status
+
+
+<p align="center">
+          <a href="https://github.com/whiteWolfx99/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteWolfx99&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"               alt="whiteWolfx99 :: Top Langs" /></a>
+          </p>
+          <p align="center">
+          <a href="https://github.com/whiteWolfx99">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=whiteWolfx99&show_icons=true&theme=midnight-purple&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=whiteWolfx99&theme=midnight-purple&hide_border=true" />
+          </a>
+</p>

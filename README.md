@@ -39,7 +39,7 @@
           <a href="https://github.com/whiteWolfx99/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteWolfx99&langs_count=6&theme=dark&layout=compact&hide_border=true"               alt="whiteWolfx99 :: Top Langs" /></a>
           <a href="https://github.com/whiteWolfx99">
-          <img  src="https://github-readme-stats.vercel.app/api?username=whiteWolfx99&show_icons=true&theme=dark&hide_border=true" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=whiteWolfx99&theme=dark&hide_border=true" />
+          <img width:35% src="https://github-readme-stats.vercel.app/api?username=whiteWolfx99&show_icons=true&theme=dark&hide_border=true" />
+          <img width:35% src="https://github-readme-streak-stats.herokuapp.com/?user=whiteWolfx99&theme=dark&hide_border=true" />
           </a>
 </p>

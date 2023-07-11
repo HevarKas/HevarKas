@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&pause=1000&color=grey&width=600&height=70&lines=Welcome)](https://git.io/typing-svg)
 
 ## About Me :
-- 🌱 I am now studying Full Stack Development with Microverse and online resources. **HTML, CSS, Javascript, React**
+- 🌱 I am a Front-End Developer at Gateway**
 
 - 📫 How to reach me **Hevarkas@gmail.com**
 
